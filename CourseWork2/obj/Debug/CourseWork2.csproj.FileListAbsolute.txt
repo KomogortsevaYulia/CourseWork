@@ -1,0 +1,10 @@
+C:\Юлия\Институт\2 курс\Курсовая Марина\CourseWork2\bin\Debug\CourseWork2.exe.config
+C:\Юлия\Институт\2 курс\Курсовая Марина\CourseWork2\bin\Debug\CourseWork2.exe
+C:\Юлия\Институт\2 курс\Курсовая Марина\CourseWork2\bin\Debug\CourseWork2.pdb
+C:\Юлия\Институт\2 курс\Курсовая Марина\CourseWork2\obj\Debug\CourseWork2.csprojAssemblyReference.cache
+C:\Юлия\Институт\2 курс\Курсовая Марина\CourseWork2\obj\Debug\CourseWork2.Form1.resources
+C:\Юлия\Институт\2 курс\Курсовая Марина\CourseWork2\obj\Debug\CourseWork2.Properties.Resources.resources
+C:\Юлия\Институт\2 курс\Курсовая Марина\CourseWork2\obj\Debug\CourseWork2.csproj.GenerateResource.cache
+C:\Юлия\Институт\2 курс\Курсовая Марина\CourseWork2\obj\Debug\CourseWork2.csproj.CoreCompileInputs.cache
+C:\Юлия\Институт\2 курс\Курсовая Марина\CourseWork2\obj\Debug\CourseWork2.exe
+C:\Юлия\Институт\2 курс\Курсовая Марина\CourseWork2\obj\Debug\CourseWork2.pdb
